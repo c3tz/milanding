@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/osx,bower,windows
 # Edit at https://www.gitignore.io/?templates=osx,bower,windows
 
+landing-page-three-master
 ### Bower ###
 bower_components
 .bower-cache
@@ -61,3 +62,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/osx,bower,windows
+
